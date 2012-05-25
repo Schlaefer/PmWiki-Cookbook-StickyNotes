@@ -78,7 +78,7 @@ For Developers
 ==============
 Version History
 ---------------
-* 2012-05-25
+* 2012-05-25 – Schlaefer
     * [new] notes are now styled with divs instead of table (upgrade your custom styles)
     * [new] style fancy is not supported anymore
 * 2.0.4 - 2009-07-20 - Rik Blok
