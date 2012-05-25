@@ -3,6 +3,8 @@ What
 
 ![Image](http://i49.tinypic.com/o5b2p1.png)
 
+[Cookbook Page on pmwiki.org](http://www.pmwiki.org/wiki/Cookbook/PostItNotes)
+
 For the Admins
 ==============
 Requirements
