@@ -47,7 +47,7 @@ div.widenote {
   margin: 0 1em 1em 1em;
 	border: 1px solid #ccc;
 	width: 200px;
-	line-height: 110%;
+	line-height: 1.4;
 	background-color: #ffffa1; 
   box-shadow: 0px 1px 1px #ccc;
   border-radius: 2px;
