@@ -26,7 +26,7 @@ $RecipeInfo['PostItNotes']['Version'] = '2012-05-25';
  * cookbook postitnotes is included
  * and running on this pmwiki installation
  */
-define(POSTITNOTES, "2.0.4");
+define(POSTITNOTES, $RecipeInfo['PostItNotes']['Version']);
 
 # see http://schlaefer.macbay.de/index.php/PmWikiCookbook/AutoUpdate
 SDVA($PmWikiAutoUpdate['PostItNotes'] , array( 
