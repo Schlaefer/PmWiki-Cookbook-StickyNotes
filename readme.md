@@ -1,3 +1,8 @@
+What
+====
+
+![Image](http://i49.tinypic.com/o5b2p1.png)
+
 For the Admins
 ==============
 Requirements
